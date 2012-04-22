@@ -17,3 +17,8 @@ Inside your JavaScript file, do the following:
 * Put the file in js/
 * Add the file name (before the ".js") to the scripts array in beginning of loader.js.
 * Select your script from the dropdown and hit run.
+
+# Note of Humility
+This is not a real demo engine that will help you create super efficient minified code for 
+your competitive european demoparty. It's strictly for fun. The artnight folder has become a 
+dumping ground for my experiments. Check em out.
